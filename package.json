@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "1.0.0",
+    "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  },
+"scripts": {
+  
+  "build": "parcel build src/index.html"
+}
+
+}
